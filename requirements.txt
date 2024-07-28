@@ -1,7 +1,9 @@
 langchain
+langchain-community
 ctransformers
 sentence-transformers
 pypdf
+langchain-core
 flask
 faiss-cpu
 -e .
