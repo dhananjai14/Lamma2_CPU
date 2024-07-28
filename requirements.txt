@@ -1,9 +1,10 @@
-langchain
-langchain-community
-ctransformers
-sentence-transformers
-pypdf
-langchain-core
-flask
-faiss-cpu
+langchain==0.2.11
+langchain_community==0.2.10
+langchain_core==0.2.24
+setuptools==59.6.0
+ctransformers==0.2.27
+sentence-transformers==3.0.1
+pypdf==4.3.1
+flask==3.0.3
+faiss-cpu==1.8.0.post1
 -e .
