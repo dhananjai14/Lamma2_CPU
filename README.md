@@ -10,7 +10,7 @@
 git clone https://github.com/dhananjai14/Lamma2_CPU.git
 ```
 
-2. Create a virtual environment
+2. Create a virtual environment (As per the ubuntu)
 
 ```bash 
 python3 -m venv venv
@@ -33,3 +33,12 @@ source: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 model name:  llama-2-7b-chat.ggmlv3.q4_0.bin
 
+6. Run the main.py file
+
+```bash
+python3 main.py
+```
+
+7. To change the behaviour LLM change the "CUSTOM_SYSTEM_PROMPT" present in path "src/helper.py" file
+
+Volla!!! 
